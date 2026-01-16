@@ -328,7 +328,17 @@ footer {
     }
     .slider .project{
         min-width: 100%;
+        height: 400px;
         justify-content: center;
+    }
+    .project .image{
+        height: 60%;
+        width: 95%;
+    }
+    .project .text{
+        height: 40%;
+        width: 95%;
+        font-size: 12px;
     }
    
 }
